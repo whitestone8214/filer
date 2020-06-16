@@ -1,0 +1,6 @@
+Name: Filer
+Description: File utility library
+Version: 0.0.1
+Requires: byter
+Cflags:
+Libs: -lfiler
